@@ -224,6 +224,7 @@ hr.small {
 
 .map {
     height: 500px;
+    background-color: rgb(25,37,38);
 }
 
 @media(max-width:768px) {
