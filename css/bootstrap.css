@@ -481,7 +481,7 @@ th {
 .glyphicon-picture:before {
   content: "\e060";
 }
-.glyphicon-map-marker:before {
+.glyphicon--marker:before {
   content: "\e062";
 }
 .glyphicon-adjust:before {
@@ -1373,10 +1373,9 @@ a.text-danger:hover {
 }
 .bg-primary {
   color: #fff;
-  background-color: #3d2f2c;
+  background-color: rgb(44,58,61)!important;
 }
 .hukamidori {
-  glyphicon-text-color: #fff;
   background-color: rgb(44,58,61);  
 }
 a.bg-primary:hover {
